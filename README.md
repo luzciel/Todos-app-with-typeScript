@@ -21,3 +21,4 @@ $ npm run dev
 ```
 
 Para visualizarlo en el navegador utilizar http://localhost:5173
+El proyecto también puede ser visualizado sin ninguna instalación, mediante la URL pública [LINK](https://todos-app-sigma-nine.vercel.app/)
